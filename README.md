@@ -15,6 +15,7 @@ wofi to ~/.config/wofi/
 ```
 and boom ur done just restart hyprland and thats it keybinds below bellow belo whatever it is
 # keybinds
+these are the keybinds
 ```
 exit = SUPER + M
 kitty = SUPER + R
