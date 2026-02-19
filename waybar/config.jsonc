@@ -1,0 +1,31 @@
+{
+    "layer": "top",
+    "position": "bottom",
+    "modules-center": ["clock"],
+    "modules-left": ["custom/start"],
+    "modules-right": ["custom/end"],
+    "height": 50,
+
+    "custom/dick": {
+        "format": "FAHHH",
+        "tooltip": false
+    },
+
+    "clock": {
+        "format": "{:%I:%M}",
+	"tooltip": false
+    },
+
+    "custom/start": {
+        "format": "Start",
+	"tooltip": false,
+	"on-click": "wofi"
+    },
+
+    "custom/end" : {
+        "format": "Stop",
+	"tooltip": false,
+	"on-click": "logout" 
+    }
+
+}
