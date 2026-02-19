@@ -3,7 +3,7 @@ my personal minimal dotfiles i would not recommend trying to use
 # installing
 to **install** these dotfiles first install these
 ```
-waybar, hyprland, wofi, kitty, nautilus, firefox, grim
+waybar, hyprland, wofi, kitty, nautilus, firefox, grim, hyprpaper
 ```
 once **installed** u have to add the ✨*dotfiles*✨
 to do that just move the files to the folders (or u cant do that)
