@@ -15,9 +15,11 @@ wofi to ~/.config/wofi/
 ```
 and boom ur done just restart hyprland and thats it keybinds below bellow belo whatever it is
 # keybinds
+```
 exit = SUPER + M
 kitty = SUPER + R
 firefox = SUPER + W
 nautilus = SUPER + F
 wofi = SUPER + D
 grim = SUPER + B
+```
